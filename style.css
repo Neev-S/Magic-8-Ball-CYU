@@ -1,0 +1,31 @@
+body {
+  width: 600px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin: 25px auto;
+}
+button {
+  padding: 2px 20px;
+  background-color: transparent;
+}
+input {
+  width: 600px;
+}
+/* span {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  height: auto; */
+/* } */
+output {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  height: auto;
+}
+html {
+  background: url("img/background-1.jpg") no-repeat fixed center;
+  background-size: cover;
+}
+h1,
+h2 {
+  color: white;
+}
+p {
+  color: white;
+}
